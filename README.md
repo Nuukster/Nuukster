@@ -10,6 +10,7 @@ To make delightfully innovative software applications that make everything more 
 When possible, to share code that makes putting entertainment on your website trivial for you and rewarding for your viewers.
 
 ##Important Links
+First, check out our GitHub wiki! It's minimal now, but will grow over time.
 Our website is [www.nuukster.com](www.nuukster.com)
 
 ##Important Docs
